@@ -1,2 +1,1 @@
-# MAN-TF
-Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction
+# Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction
