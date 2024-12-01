@@ -5,7 +5,7 @@
 In this paper, we propose a novel approach, MAN-TF, which combines Kendall's shape space with Lie group representations and transformers for accurate body movement characterization, with a focus on improving long-term prediction accuracy. 
 In doing so, we model both rigid and non rigid transformations of the skeletons involved in human motion for smooth and plausible predictions in long-term horizons.
 
-![man_tf_overview](https://github.com/anonymeeeeeee/Model-MAN-TF/assets/161598974/fceb551b-24ac-49c8-a52f-271646eeaf9b)
+<img width="635" alt="architecture" src="https://github.com/user-attachments/assets/b1d45894-d38a-493a-8a33-be4ede483ec2">
 
 ## Datasets
 
