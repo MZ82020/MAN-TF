@@ -16,6 +16,14 @@ Please visit http://vision.imar.ro/human3.6m/ in order to request access and con
 
 * To obtain the PROX dataset please check: https://prox.is.tue.mpg.de/
 
+## Train and Test
+
+* Run the following jupyter "Train&Test_Transformer_Kendal_Lie_Human" to train and test the model in H3.6m
+
+* Run the following jupyter "Train&Test_Transformer_Kendall_Lie_Gta" to train and test the model in GTA-IM
+
+* Run the following jupyter "Train&Test_Transformer_Kendall_Lie_Prox" to train and test the model in PROX 
+
 ## Citation
 
 If you find this useful, please cite our work as follows:
